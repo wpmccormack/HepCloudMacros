@@ -1,0 +1,874 @@
+14268.155
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14233.238
+14213.905
+14232.67
+13591.816
+13645.95
+14200.523
+14209.308
+14206.197
+14182.981
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14238.936
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13768.621
+14172.169
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14241.193
+14259.316
+14256.715
+14146.77
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14191.799
+14224.752
+14180.85
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14253.735
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13437.216
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14252.099
+14290.135
+14285.546
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14262.574
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14261.935
+14231.323
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14238.809
+14252.251
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14233.278
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13544.02
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13712.005
+14266.75
+13560.344
+14232.562
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13898.509
+14256.27
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14234.679
+13704.828
+14222.207
+14231.008
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14228.254
+14207.688
+14231.235
+14242.899
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14156.802
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14264.501
+14180.837
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14230.787
+14208.511
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13540.882
+14235.643
+14229.343
+14240.933
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14230.8
+14189.427
+14224.222
+14256.98
+14243.093
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13659.991
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14291.479
+14281.195
+14187.887
+14265.618
+13743.831
+14257.741
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14239.78
+14000.867
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13678.504
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14273.295
+14244.822
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14208.412
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14212.839
+14263.561
+14233.173
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14209.997
+14235.054
+13671.368
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14277.505
+14196.763
+14220.105
+14256.236
+13605.159
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14208.36
+14201.322
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14244.402
+14218.369
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14288.583
+14300.461
+14243.771
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13905.677
+14229.537
+13764.478
+14203.585
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14251.908
+14264.16
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14285.382
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14218.141
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14228.424
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13716.584
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14211.801
+14175.439
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14235.185
+14272.449
+14264.669
+14182.265
+14226.5
+14281.02
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14211.225
+14216.959
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14260.262
+14234.686
+14250.041
+14222.541
+14239.156
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14246.999
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14267.54
+14291.177
+14221.232
+14231.406
+14210.873
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13977.764
+14224.882
+14254.38
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14220.028
+14256.53
+14287.002
+14231.732
+14217.733
+14213.281
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14262.075
+14241.267
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14227.0
+14246.373
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14228.288
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14285.239
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14290.629
+14227.406
+14221.881
+14277.02
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14243.539
+14208.62
+14267.083
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14244.013
+14272.586
+14261.316
+14235.401
+14218.291
+14250.956
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14226.216
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14261.161
+14231.924
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14251.709
+14242.78
+14219.932
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13712.712
+14149.242
+14240.801
+14233.327
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14154.414
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14278.335
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14264.09
+14192.652
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14252.958
+14305.171
+14233.126
+14232.648
+14269.907
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14258.959
+14262.066
+14223.18
+14257.331
+14176.976
+13550.641
+14227.203
+14263.457
+14270.42
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14226.906
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13599.89
+14267.64
+14294.638
+14270.793
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14246.233
+14236.547
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13817.563
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14257.648
+13692.575
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14221.418
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14218.475
+14281.167
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14265.345
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14208.213
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14272.21
+14257.27
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14258.329
+14187.994
+14235.276
+13668.025
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13692.765
+14280.527
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14265.927
+14285.893
+14247.941
+14253.489
+14222.163
+14172.682
+14206.848
+14240.281
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13656.595
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14196.804
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14247.116
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14168.173
+14273.977
+14209.295
+14289.253
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14262.712
+14254.27
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14191.269
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14137.331
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14228.783
+14253.525
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14197.825
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14224.123
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14226.346
+14232.26
+14213.811
+14218.971
+14230.705
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14241.366
+14188.576
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+13707.476
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14211.211
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14236.078
+14122.89
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14232.517
+14207.623
+14245.995
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14247.252
+14255.394
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14259.975
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+Traceback (most recent call last):
+  File "timeDiff.py", line 38, in <module>
+    timediff(endTime, stTime)
+NameError: name 'endTime' is not defined
+14283.616
